@@ -3,7 +3,7 @@
 <p>
   🚂Undergrad CS @ Purdue University WL
   <br>
-  🧠Currently experienced in Unity Game Development
+  🕹️Currently experienced in Unity Game Development
   <br>
   📖Learning web dev, app dev, data science, C language
   <br>
