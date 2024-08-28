@@ -7,7 +7,7 @@
   <br>
   Learning web dev, app dev, data science, C language
   <br>
-  Interested in creating fun, unique, and useful applications
+  Interested in learning new skills & creating fun, unique, and useful applications
 </p>
 
 
