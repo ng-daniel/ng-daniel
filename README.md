@@ -1,5 +1,5 @@
 Hey, this is Daniel:
-
+<br>
 Undergrad CS @ Purdue University WL
 Currently experienced in Unity Game Development
 Learning web dev, app dev, data science, C language
