@@ -1,13 +1,13 @@
 <s>What are you stalking my github for???</s>
 
 <p>
-  Undergrad CS @ Purdue University WL
+  🚂Undergrad CS @ Purdue University WL
   <br>
-  Currently experienced in Unity Game Development
+  🧠Currently experienced in Unity Game Development
   <br>
-  Learning web dev, app dev, data science, C language
+  📖Learning web dev, app dev, data science, C language
   <br>
-  Interested in learning new skills & creating fun, unique, and useful applications
+  💡Interested in learning new skills & creating fun, unique, and useful applications
 </p>
 
 
