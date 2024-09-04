@@ -1,4 +1,4 @@
-<s>I got a really good username with no numbers for the first time and I'm still proud of it.</s>
+<s>I finally got a username with no numbers and I'm still proud of it.</s>
 
 <p>
   🚂Undergrad CS @ Purdue University WL
