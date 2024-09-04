@@ -1,4 +1,4 @@
-<s>What are you stalking my github for???</s>
+<s>I got a really good username with no numbers for the first time and I'm still proud of it.</s>
 
 <p>
   🚂Undergrad CS @ Purdue University WL
