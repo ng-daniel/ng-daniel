@@ -5,7 +5,7 @@
   <br>
   🕹️Currently experienced in Unity Game Development
   <br>
-  📖Learning web dev, app dev, data science
+  📖Learning web dev, app dev, data science, ML
   <br>
   💡Interested in learning new skills & creating fun, unique, and useful applications
 </p>
