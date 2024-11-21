@@ -1,7 +1,5 @@
-<s>I finally got a username with no numbers and I'm still proud of it.</s>
-
 <p>
-  🚂Undergrad CS @ Purdue University WL
+  🚂Undergrad CS @ Purdue University
   <br>
   🕹️Experienced in Unity Game Development
   <br>
