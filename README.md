@@ -5,9 +5,9 @@
   <br>
   🕹️Experienced in Unity Game Development
   <br>
-  📖Machine Learning, Data Science, Software Engineering
+  📖Learning ML & Data Science
   <br>
-  💡Interested in learning new skills & creating fun, unique, and useful applications
+  💡Interested in acquiring new skills & creating fun, unique, and useful applications
 </p>
 
 
