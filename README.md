@@ -1,11 +1,9 @@
 <p>
   🚂Undergrad CS @ Purdue University
   <br>
-  🕹️Experienced in Unity Game Development
+  🕹️Makes Games, Builds Software, Explores Data 
   <br>
-  📖Learning ML & Data Science
-  <br>
-  💡Interested in acquiring new skills & creating fun, unique, and useful applications
+  📖Learning Everything About Data
 </p>
 
 
