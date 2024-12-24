@@ -1,9 +1,9 @@
 <p>
-  🚂Undergrad CS @ Purdue University
+  🚂CS @ Purdue
   <br>
-  🕹️Makes Games, Builds Software, Explores Data 
+  🕹️Makes Games, Builds Tools, Explores Data 
   <br>
-  📖Learning Everything About Data
+  📖Currently Learning Everything About Data
 </p>
 
 
