@@ -1,8 +1,8 @@
 ## Hi, I'm Daniel. Welcome to my github!
 
-I'm a CS major at Purdue University who likes staring at data and developing games.\
+I'm a CS major at Purdue University who likes building and experimenting with things.\
 Doing my best to code consistently :) and learn to learn efficiently.\
-Hobbies include calisthenics, pixel art, music production, and poetry.
+Hobbies include fitness, pixel art, music production, and poetry.
 
 
 <!---
