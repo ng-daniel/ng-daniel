@@ -1,7 +1,11 @@
 # HELLO!!!!!
 
-CompSci DataSci Double Major @ Purdue University working in software, data, and game dev.\
-Also a pixel artist, music producer, gym bro, and poet.\
+Comp Science & Data Science @ Purdue University
+
+Working in software, data, and game development.
+
+Also a pixel artist, music producer, gym bro, and poet.
+
 Go peek at my repos they're pretty cool.
 
 <!---
