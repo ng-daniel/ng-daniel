@@ -1,7 +1,7 @@
 # HELLO!!!!!
 
 CompSci DataSci Double Major @ Purdue University working in software, data, and game dev.\
-Hobbies are coding, pixel art, music production, fitness.\
+Also a pixel artist, music producer, gym bro, and poet.
 Go peek at my repos they're pretty cool.
 
 <!---
