@@ -4,7 +4,7 @@ Comp Science & Data Science @ Purdue University
 
 Working in software, data, and game development.
 
-Also a pixel artist, music producer, gym bro, and poet.
+Also a pixel artist, music producer, and gym enthisiast.
 
 Go peek at my repos they're pretty cool.
 
