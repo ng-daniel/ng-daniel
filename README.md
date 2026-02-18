@@ -1,7 +1,4 @@
-# Hello. This is my github.
-
-Comp Science & Data Science @ Purdue University \
-Doing software, data/ML science, and game development.
+Some things for work, some things for fun :)
 
 <!---
 ng-daniel/ng-daniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
