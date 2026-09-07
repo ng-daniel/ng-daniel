@@ -1,4 +1,4 @@
-Some things for work, some things for fun :)
+Some things for work, some things for fun :) \
 Mostly game dev and SWE, with a dash of data science/engineering
 
 <!---
